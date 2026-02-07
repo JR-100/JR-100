@@ -4,7 +4,7 @@
 👨‍💻 About Me
 
 I’m a learning web developer who enjoys exploring how websites and systems are built.
-I am using Laravel and Vue for my project called Cebu Event Site, and I’m currently learning React for frontend development.
+I am using Laravel and Vue for my project called Cebu Event Site, and I’m currently learning other framworks.
 
 I like building small to medium projects, experimenting with features, and learning from mistakes. Every project I work on helps me understand development concepts better and motivates me to keep improving.
 
