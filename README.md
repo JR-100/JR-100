@@ -1,4 +1,4 @@
-# Hi, I'm Jr 👋
+# Hi, I'm Diosdado M. Marquez Jr. 👋
 
 💫 About Me:
 👨‍💻 About Me
