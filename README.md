@@ -1,6 +1,5 @@
 # Hi, I'm Diosdado M. Marquez Jr. 👋
 
-💫 About Me:
 👨‍💻 About Me
 
 I’m a learning web developer who enjoys exploring how websites and systems are built.
